@@ -10,4 +10,4 @@ package.json
 prepros-6.config
 services.html
 vendors
-./scss
+scss/
