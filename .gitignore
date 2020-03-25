@@ -1,13 +1,5 @@
-
-about.html
-blog-details.html
-blog.html
-contact_process.php
-contact.html
-elements.html
+node_modules
+prepros-6.config
+scss
 package-lock.json
 package.json
-prepros-6.config
-services.html
-vendors
-scss/
