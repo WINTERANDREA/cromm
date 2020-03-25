@@ -1,4 +1,4 @@
-scss
+
 about.html
 blog-details.html
 blog.html
@@ -10,3 +10,4 @@ package.json
 prepros-6.config
 services.html
 vendors
+./scss
